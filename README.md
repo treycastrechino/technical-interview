@@ -24,6 +24,8 @@ Welcome to the technical interview for our project. The following ten open-ended
 
    After completing all the exercises, upload the updated private repository to your personal GitHub account. Then, email us the private repository link along with your explanations. Your submission will be reviewed for coding efficiency, technical proficiency, and the clarity of your documentation.
 
+Good luck!
+
 ---
 
 ## 1. Solution Architect Experience
@@ -85,9 +87,3 @@ Review the client-side JavaScript code and add an interactive feature or refacto
 Examine the current RESTful API endpoints and implement improvements to enhance efficiency, security, or functionality. For example, update an endpoint to return JSON data with improved validation and error handling. Modify the project accordingly and document your approach and rationale.
 
 ---
-
-**Final Submission:** 
-
-After completing all the exercises, submit your updated repository along with your documentation explaining your modifications and reasoning. We will review your code for technical proficiency, problem-solving skills, and clarity in communication.
-
-Good luck!

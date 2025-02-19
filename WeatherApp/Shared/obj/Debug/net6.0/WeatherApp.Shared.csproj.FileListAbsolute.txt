@@ -1,0 +1,36 @@
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\bin\Debug\net6.0\WeatherApp.Shared.deps.json
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\bin\Debug\net6.0\WeatherApp.Shared.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\bin\Debug\net6.0\WeatherApp.Shared.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\WeatherApp.Shared.csproj.AssemblyReference.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\WeatherApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\WeatherApp.Shared.AssemblyInfoInputs.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\WeatherApp.Shared.AssemblyInfo.cs
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\WeatherApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\WeatherApp.Shared.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\refint\WeatherApp.Shared.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\WeatherApp.Shared.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\ref\WeatherApp.Shared.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp\Shared\bin\Debug\net6.0\WeatherApp.Shared.deps.json
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp\Shared\bin\Debug\net6.0\WeatherApp.Shared.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp\Shared\bin\Debug\net6.0\WeatherApp.Shared.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.csproj.AssemblyReference.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.AssemblyInfoInputs.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.AssemblyInfo.cs
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp\Shared\obj\Debug\net6.0\refint\WeatherApp.Shared.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp\Shared\obj\Debug\net6.0\ref\WeatherApp.Shared.dll
+I:\Data\WeatherApp\WeatherApp\Shared\bin\Debug\net6.0\WeatherApp.Shared.deps.json
+I:\Data\WeatherApp\WeatherApp\Shared\bin\Debug\net6.0\WeatherApp.Shared.dll
+I:\Data\WeatherApp\WeatherApp\Shared\bin\Debug\net6.0\WeatherApp.Shared.pdb
+I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.csproj.AssemblyReference.cache
+I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.AssemblyInfoInputs.cache
+I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.AssemblyInfo.cs
+I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.csproj.CoreCompileInputs.cache
+I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.dll
+I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\refint\WeatherApp.Shared.dll
+I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.pdb
+I:\Data\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\ref\WeatherApp.Shared.dll

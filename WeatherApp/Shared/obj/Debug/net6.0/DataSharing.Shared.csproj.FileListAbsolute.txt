@@ -1,0 +1,12 @@
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\bin\Debug\net6.0\DataSharing.Shared.deps.json
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\bin\Debug\net6.0\DataSharing.Shared.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\bin\Debug\net6.0\DataSharing.Shared.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\DataSharing.Shared.csproj.AssemblyReference.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\DataSharing.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\DataSharing.Shared.AssemblyInfoInputs.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\DataSharing.Shared.AssemblyInfo.cs
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\DataSharing.Shared.csproj.CoreCompileInputs.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\DataSharing.Shared.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\refint\DataSharing.Shared.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\DataSharing.Shared.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing\Shared\obj\Debug\net6.0\ref\DataSharing.Shared.dll

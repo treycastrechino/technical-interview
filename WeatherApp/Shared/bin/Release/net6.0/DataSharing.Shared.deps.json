@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DataSharing.Shared/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.404.10",
+          "Microsoft.JSInterop": "6.0.36"
+        },
+        "runtime": {
+          "DataSharing.Shared.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.400.69": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.400.69"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.404.10": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.400.69"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.404.10"
+          }
+        }
+      },
+      "Microsoft.JSInterop/6.0.36": {
+        "runtime": {
+          "lib/net6.0/Microsoft.JSInterop.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51604"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataSharing.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.400.69": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s8hAQxtbPxSEtq5tkvVN2qdbY2ggxyGsAwNJ0acpP76rV77KKpJg7PsferHUvUj4g4BKkj3fSTru128v0afJYw==",
+      "path": "awssdk.core/3.7.400.69",
+      "hashPath": "awssdk.core.3.7.400.69.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.404.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yFNfRESjQO0U5T7nCTQEJ6H5XZyNwR4WAloWrozqo4dUtbvNkgxtBwHQBCXhBdUwgqxi3y3rp0kwSDWouE3BhQ==",
+      "path": "awssdk.dynamodbv2/3.7.404.10",
+      "hashPath": "awssdk.dynamodbv2.3.7.404.10.nupkg.sha512"
+    },
+    "Microsoft.JSInterop/6.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e8jDwaCpfpSCR8f+UbbfU6ZrJE37svywOhevNnAuzQG9IdDJai/AgeAW19t2LMumFXVrdqhX/BIQNzSfyHpsXg==",
+      "path": "microsoft.jsinterop/6.0.36",
+      "hashPath": "microsoft.jsinterop.6.0.36.nupkg.sha512"
+    }
+  }
+}

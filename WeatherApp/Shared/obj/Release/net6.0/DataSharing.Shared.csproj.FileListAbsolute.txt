@@ -1,0 +1,12 @@
+E:\ProjectData\DataSharing\DataSharing\Shared\bin\Release\net6.0\DataSharing.Shared.deps.json
+E:\ProjectData\DataSharing\DataSharing\Shared\bin\Release\net6.0\DataSharing.Shared.dll
+E:\ProjectData\DataSharing\DataSharing\Shared\bin\Release\net6.0\DataSharing.Shared.pdb
+E:\ProjectData\DataSharing\DataSharing\Shared\obj\Release\net6.0\DataSharing.Shared.csproj.AssemblyReference.cache
+E:\ProjectData\DataSharing\DataSharing\Shared\obj\Release\net6.0\DataSharing.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectData\DataSharing\DataSharing\Shared\obj\Release\net6.0\DataSharing.Shared.AssemblyInfoInputs.cache
+E:\ProjectData\DataSharing\DataSharing\Shared\obj\Release\net6.0\DataSharing.Shared.AssemblyInfo.cs
+E:\ProjectData\DataSharing\DataSharing\Shared\obj\Release\net6.0\DataSharing.Shared.csproj.CoreCompileInputs.cache
+E:\ProjectData\DataSharing\DataSharing\Shared\obj\Release\net6.0\DataSharing.Shared.dll
+E:\ProjectData\DataSharing\DataSharing\Shared\obj\Release\net6.0\refint\DataSharing.Shared.dll
+E:\ProjectData\DataSharing\DataSharing\Shared\obj\Release\net6.0\DataSharing.Shared.pdb
+E:\ProjectData\DataSharing\DataSharing\Shared\obj\Release\net6.0\ref\DataSharing.Shared.dll

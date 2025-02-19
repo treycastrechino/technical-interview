@@ -12,13 +12,17 @@ Welcome to the technical interview for our project. The following ten open-ended
 
    Begin by cloning the project repository from GitHub. This will be your working codebase for these exercises.
 
-2. **Make Your Changes:** 
+2. **Create a New Readme.md**
 
-   Select a minimum of four exercises from the below list for this interview process. For each of the exercises that you select, make the necessary modifications directly in the code. As you work, document your changes by including clear explanations (either in separate documentation files or as commit messages) that describe **how** you implemented your solution and **why** you chose that particular approach.
+   Describe your proficiency with the technologies used and/or referenced within this repository and these exercises.
 
-3. **Submit Your Solution:** 
+3. **Make Your Changes:** 
 
-   Once you have completed all exercises, submit your updated repository (via a GitHub link or a zipped project) along with your explanations. Your submission will be reviewed for coding efficiency, technical proficiency, and the clarity of your documentation.
+   Select a minimum of four exercises from the below list for this interview process. For each of the exercises that you select, make the necessary modifications directly in the code. As you work, document your changes by including clear explanations (either in separate documentation files or as commit messages) that describe **how** you implemented your solution and **why** you chose that particular approach. 
+
+4. **Submit Your Solution:** 
+
+   After completing all the exercises, upload the updated private repository to your personal GitHub account. Then, email us the private repository link along with your explanations. Your submission will be reviewed for coding efficiency, technical proficiency, and the clarity of your documentation.
 
 ---
 

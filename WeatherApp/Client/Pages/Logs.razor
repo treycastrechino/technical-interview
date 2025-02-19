@@ -1,0 +1,69 @@
+﻿@page "/Logs"
+@using WeatherApp.Shared
+@inject HttpClient Http
+<div class="main" style="flex-direction: column;">
+    <h2>Application Logs</h2>
+    <div class="fixTableHead" style="height:calc(100vh - 150px);">
+        <table class="data-tbl" style="width:100%; background-color: #dadada; font-size: 14px;" cellpadding="5" cellspacing="5">
+            <thead>
+                <tr style="text-align: left;">
+                    <th style="width:50px;">S.No.</th>
+                    <th style="width:100px;">Log Level</th>
+                    <th>Logs Description</th>
+                    <th style="width:200px;">Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (LogDetails != null)
+                {
+                    @foreach (var log in LogDetails.Select((log, index) => new { log, index }))
+                    {
+                        <tr>
+                            <td>@(log.index + 1)</td>
+                            <td>@log.log.Level</td>
+                            <td>@log.log.Message</td>
+                            <td>@log.log.Timestamp</td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="4">No logs available</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+
+
+
+  
+</div>
+
+@code {
+    private List<LogModel> LogDetails = new List<LogModel>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            var response2 = await Http.PostAsJsonAsync("api/GetLogsInfo","");
+
+            if (response2.IsSuccessStatusCode)  // Ensure the request was successful
+            {
+                LogDetails = await response2.Content.ReadFromJsonAsync<List<LogModel>>();
+            }
+            else
+            {
+                string errorResponse = await response2.Content.ReadAsStringAsync();
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error fetching logs: {ex.Message}");
+        }
+    }
+    
+}

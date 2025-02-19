@@ -1,0 +1,44 @@
+﻿@if (Show)
+{
+    <div class="popup-overlay">
+        <div class="popup-box @AlertClass">
+            <div class="popup-header">
+                <span class="popup-title">@Title</span>
+                <button class="popup-close" @onclick="() => OnClose(false)">×</button>
+            </div>
+            <div class="popup-body">
+                <span class="popup-icon">@Icon</span>
+                <p class="popup-message">@Message</p>
+            </div>
+            <div class="popup-footer">
+                @if (IsConfirmation)
+                {
+                    <button class="btn-confirm" @onclick="() => OnClose(true)">Yes</button>
+                    <button class="btn-cancel" @onclick="() => OnClose(false)">No</button>
+                }
+                else
+                {
+                    <button class="btn-confirm" @onclick="() => OnClose(true)">OK</button>
+                }
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter] public bool Show { get; set; }
+    [Parameter] public string Message { get; set; }
+    [Parameter] public string Title { get; set; }
+    [Parameter] public string Icon { get; set; }
+    [Parameter] public string AlertClass { get; set; }
+    [Parameter] public bool IsConfirmation { get; set; }
+    [Parameter] public EventCallback<bool> ShowChanged { get; set; }  // This is the missing part
+    [Parameter] public EventCallback<bool> OnConfirm { get; set; }
+
+    private void OnClose(bool confirmed)
+    {
+        Show = false; // Set Show to false when the popup is closed
+        ShowChanged.InvokeAsync(Show); // Notify parent component about the change
+        OnConfirm.InvokeAsync(confirmed); // Call the OnConfirm callback
+    }
+}

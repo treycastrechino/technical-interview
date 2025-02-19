@@ -1,0 +1,52 @@
+﻿@if (Show)
+{
+    <div class="popup-overlay">
+        <div class="popup-box @AlertClass">
+            <div class="popup-header">
+                <span class="popup-title">@Title</span>
+                <button class="popup-close" @onclick="Hide">×</button>
+            </div>
+            <div class="popup-body">
+                <span class="popup-icon">@Icon</span>
+                <p class="popup-message">@Message</p>
+            </div>
+            <div class="popup-footer">
+                <button class="btn-confirm" @onclick="Hide">OK</button>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    private bool Show { get; set; }
+    private string Message { get; set; }
+    private string AlertClass { get; set; }
+    private string Title { get; set; }
+    private string Icon { get; set; }
+
+    public void ShowSuccess(string message)
+    {
+        ShowAlert("Success", message, "success", "✔️");
+    }
+
+    public void ShowError(string message)
+    {
+        ShowAlert("Error", message, "error", "❌");
+    }
+
+    private void ShowAlert(string title, string message, string cssClass, string icon)
+    {
+        Title = title;
+        Message = message;
+        AlertClass = cssClass;
+        Icon = icon;
+        Show = true;
+        StateHasChanged();
+    }
+
+    private void Hide()
+    {
+        Show = false;
+        StateHasChanged();
+    }
+}

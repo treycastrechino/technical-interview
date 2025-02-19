@@ -1,0 +1,31 @@
+﻿@using WeatherApp.Client.Pages
+@using WeatherApp.Shared
+@using System.Text
+@inject HttpClient http
+@inject IJSRuntime JSRuntime
+
+@inherits LayoutComponentBase
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="top-row" style="justify-content:center;position:relative;">
+            <h3><b>Weather App</b></h3>
+            <a class="px-4" href="/" style="position:absolute; left:0;">Home</a>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+
+   
+</div>
+@code{
+   
+
+
+}

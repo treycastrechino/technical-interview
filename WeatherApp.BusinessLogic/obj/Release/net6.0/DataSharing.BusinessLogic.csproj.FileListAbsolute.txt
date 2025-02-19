@@ -1,0 +1,15 @@
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\bin\Release\net6.0\DataSharing.BusinessLogic.deps.json
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\bin\Release\net6.0\DataSharing.BusinessLogic.dll
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\bin\Release\net6.0\DataSharing.BusinessLogic.pdb
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\bin\Release\net6.0\DataSharing.Shared.dll
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\bin\Release\net6.0\DataSharing.Shared.pdb
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\obj\Release\net6.0\DataSharing.BusinessLogic.csproj.AssemblyReference.cache
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\obj\Release\net6.0\DataSharing.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\obj\Release\net6.0\DataSharing.BusinessLogic.AssemblyInfoInputs.cache
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\obj\Release\net6.0\DataSharing.BusinessLogic.AssemblyInfo.cs
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\obj\Release\net6.0\DataSharing.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\obj\Release\net6.0\DataShar.EEF82F7A.Up2Date
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\obj\Release\net6.0\DataSharing.BusinessLogic.dll
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\obj\Release\net6.0\refint\DataSharing.BusinessLogic.dll
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\obj\Release\net6.0\DataSharing.BusinessLogic.pdb
+E:\ProjectData\DataSharing\DataSharing.BusinessLogic\obj\Release\net6.0\ref\DataSharing.BusinessLogic.dll

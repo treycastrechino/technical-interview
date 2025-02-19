@@ -1,0 +1,11 @@
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.DataAccess\bin\Debug\net6.0\WeatherApp.DataAccess.deps.json
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.DataAccess\bin\Debug\net6.0\WeatherApp.DataAccess.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.DataAccess\bin\Debug\net6.0\WeatherApp.DataAccess.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.DataAccess\obj\Debug\net6.0\WeatherApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.DataAccess\obj\Debug\net6.0\WeatherApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.DataAccess\obj\Debug\net6.0\WeatherApp.DataAccess.AssemblyInfo.cs
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.DataAccess\obj\Debug\net6.0\WeatherApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.DataAccess\obj\Debug\net6.0\WeatherApp.DataAccess.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.DataAccess\obj\Debug\net6.0\refint\WeatherApp.DataAccess.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.DataAccess\obj\Debug\net6.0\WeatherApp.DataAccess.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.DataAccess\obj\Debug\net6.0\ref\WeatherApp.DataAccess.dll

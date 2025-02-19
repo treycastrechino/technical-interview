@@ -1,0 +1,45 @@
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\bin\Debug\net6.0\WeatherApp.BusinessLogic.deps.json
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\bin\Debug\net6.0\WeatherApp.BusinessLogic.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\bin\Debug\net6.0\WeatherApp.BusinessLogic.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\bin\Debug\net6.0\WeatherApp.Shared.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\bin\Debug\net6.0\WeatherApp.Shared.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.AssemblyInfo.cs
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\obj\Debug\net6.0\WeatherA.2BB802B0.Up2Date
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\obj\Debug\net6.0\refint\WeatherApp.BusinessLogic.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\DataSharing.BusinessLogic\obj\Debug\net6.0\ref\WeatherApp.BusinessLogic.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\bin\Debug\net6.0\WeatherApp.BusinessLogic.deps.json
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\bin\Debug\net6.0\WeatherApp.BusinessLogic.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\bin\Debug\net6.0\WeatherApp.BusinessLogic.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\bin\Debug\net6.0\WeatherApp.Shared.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\bin\Debug\net6.0\WeatherApp.Shared.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.AssemblyInfo.cs
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherA.2BB802B0.Up2Date
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\obj\Debug\net6.0\refint\WeatherApp.BusinessLogic.dll
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.pdb
+C:\Users\JAI SINGH\Desktop\DataSharing\WeatherApp.BusinessLogic\obj\Debug\net6.0\ref\WeatherApp.BusinessLogic.dll
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\bin\Debug\net6.0\WeatherApp.BusinessLogic.deps.json
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\bin\Debug\net6.0\WeatherApp.BusinessLogic.dll
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\bin\Debug\net6.0\WeatherApp.BusinessLogic.pdb
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\bin\Debug\net6.0\WeatherApp.Shared.dll
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\bin\Debug\net6.0\WeatherApp.Shared.pdb
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.csproj.AssemblyReference.cache
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.AssemblyInfoInputs.cache
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.AssemblyInfo.cs
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.csproj.CoreCompileInputs.cache
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.csproj.CopyComplete
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.dll
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\refint\WeatherApp.BusinessLogic.dll
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\WeatherApp.BusinessLogic.pdb
+I:\Data\WeatherApp\WeatherApp.BusinessLogic\obj\Debug\net6.0\ref\WeatherApp.BusinessLogic.dll

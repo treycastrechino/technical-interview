@@ -18,7 +18,7 @@ Welcome to the technical interview for our project. The following ten open-ended
 
 3. **Make Your Changes:** 
 
-   Select a minimum of four exercises from the below list for this interview process. For each of the exercises that you select, make the necessary modifications directly in the code. As you work, document your changes by including clear explanations (either in separate documentation files or as commit messages) that describe **how** you implemented your solution and **why** you chose that particular approach. 
+   Select a minimum of four exercises from the below list for this interview process. For each of the exercises that you select, make the necessary modifications directly in the code. As you work, document your changes by including clear explanations (within your new readme.md file) that describe **how** you implemented your solution and **why** you chose that particular approach. 
 
 4. **Submit Your Solution:** 
 

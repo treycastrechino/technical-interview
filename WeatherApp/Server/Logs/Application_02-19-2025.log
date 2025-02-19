@@ -1,0 +1,13 @@
+2025-02-19 04:55:29,358 [1] INFO  Program - Blazor Server Application started.
+2025-02-19 04:55:46,057 [12] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Cache loaded successfully.
+2025-02-19 04:55:46,335 [12] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - API Key loaded successfully from I:\Data\WeatherApp\WeatherApp\Server\Configuration\config.json.
+2025-02-19 04:55:46,755 [8] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Fetched weather data for city: El Dorado Hills
+2025-02-19 04:55:46,781 [8] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Weather data cached successfully.
+2025-02-19 04:55:46,875 [8] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Fetched forecast data for city: El Dorado Hills
+2025-02-19 04:55:46,884 [8] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Weather Forecast data cached successfully.
+2025-02-19 05:00:08,852 [1] INFO  Program - Blazor Server Application started.
+2025-02-19 05:00:27,879 [17] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Cache loaded successfully.
+2025-02-19 05:00:28,309 [17] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - API Key loaded successfully from I:\Data\WeatherApp\WeatherApp\Server\Configuration\config.json.
+2025-02-19 05:01:40,327 [1] INFO  Program - Blazor Server Application started.
+2025-02-19 05:01:54,681 [25] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Cache loaded successfully.
+2025-02-19 05:01:54,860 [25] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - API Key loaded successfully from I:\Data\WeatherApp\WeatherApp\Server\Configuration\config.json.

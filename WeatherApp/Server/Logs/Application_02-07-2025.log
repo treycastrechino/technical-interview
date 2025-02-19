@@ -1,0 +1,24 @@
+2025-02-07 08:03:56,908 [1] INFO  Program - Blazor Server Application started.
+2025-02-07 08:04:05,159 [11] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Cache loaded successfully.
+2025-02-07 08:04:05,217 [11] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - API Key loaded successfully from I:\Data\WeatherApp\WeatherApp\Server\Configuration\config.json.
+2025-02-07 08:04:45,723 [19] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Cache loaded successfully.
+2025-02-07 08:04:45,729 [19] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - API Key loaded successfully from I:\Data\WeatherApp\WeatherApp\Server\Configuration\config.json.
+2025-02-07 09:09:22,042 [1] INFO  Program - Blazor Server Application started.
+2025-02-07 09:09:29,335 [3] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Cache loaded successfully.
+2025-02-07 09:09:29,397 [3] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - API Key loaded successfully from I:\Data\WeatherApp\WeatherApp\Server\Configuration\config.json.
+2025-02-07 09:09:29,984 [23] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Fetched weather data for city: El Dorado Hills
+2025-02-07 09:09:30,004 [23] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Weather data cached successfully.
+2025-02-07 09:09:30,121 [23] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Fetched forecast data for city: El Dorado Hills
+2025-02-07 09:09:30,129 [23] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Weather Forecast data cached successfully.
+2025-02-07 09:09:58,826 [8] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Cache loaded successfully.
+2025-02-07 09:09:58,832 [8] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - API Key loaded successfully from I:\Data\WeatherApp\WeatherApp\Server\Configuration\config.json.
+2025-02-07 09:10:27,386 [11] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Cache loaded successfully.
+2025-02-07 09:10:27,392 [11] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - API Key loaded successfully from I:\Data\WeatherApp\WeatherApp\Server\Configuration\config.json.
+2025-02-07 09:10:27,619 [46] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Fetched weather data for city: Folsom
+2025-02-07 09:10:27,626 [46] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Weather data cached successfully.
+2025-02-07 09:10:27,738 [46] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Fetched forecast data for city: Folsom
+2025-02-07 09:10:27,747 [46] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Weather Forecast data cached successfully.
+2025-02-07 09:10:40,287 [3] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Cache loaded successfully.
+2025-02-07 09:10:40,293 [3] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - API Key loaded successfully from I:\Data\WeatherApp\WeatherApp\Server\Configuration\config.json.
+2025-02-07 09:10:44,064 [12] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - Cache loaded successfully.
+2025-02-07 09:10:44,069 [12] INFO  WeatherApp.BusinessLogic.BusinessLogic.HomeService - API Key loaded successfully from I:\Data\WeatherApp\WeatherApp\Server\Configuration\config.json.

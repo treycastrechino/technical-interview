@@ -1,6 +1,4 @@
 # Introduction
-
-Adding changes and testing initial commit
  
 Mimir Candidate,
 
